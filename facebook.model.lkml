@@ -1,4 +1,4 @@
-connection: "facebook_data"
+connection: "tn-warehouse"
 
 # include all the views
 include: "*.view"
